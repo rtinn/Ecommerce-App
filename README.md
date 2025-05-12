@@ -59,10 +59,5 @@
 <h1>Thank you so much for visited my github and project. Please Follow me and github follow button clicked</h1>
 
 
-</br>
-</br>
-<h1>You subscribe my youtube channel and github follow. my youtube channel link: <a href="https://www.youtube.com/@lifeonthecode">Click On</a></h1>
-
-
 
 
